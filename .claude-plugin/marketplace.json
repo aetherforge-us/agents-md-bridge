@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
+  "name": "burnfiddlesticks",
+  "owner": {
+    "name": "Patrick Rutledge",
+    "email": "pat@burnfiddlesticks.com"
+  },
+  "description": "Claude Code plugins that fill ecosystem gaps.",
+  "plugins": [
+    {
+      "name": "agents-md-bridge",
+      "source": "./",
+      "description": "Makes Claude Code read AGENTS.md natively — links each AGENTS.md to a git-ignored CLAUDE.md via @import (zero drift), nested files included, never touching a CLAUDE.md you wrote yourself.",
+      "homepage": "https://patrickrutledge.github.io/agents-md-bridge/",
+      "repository": "https://github.com/PatrickRutledge/agents-md-bridge",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["agents.md", "interoperability", "memory"]
+    }
+  ]
+}

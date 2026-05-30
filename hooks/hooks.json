@@ -1,0 +1,17 @@
+{
+  "SessionStart": [
+    {
+      "matcher": "startup|resume|clear|compact",
+      "hooks": [
+        {
+          "type": "command",
+          "command": "node",
+          "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/sync.js"],
+          "timeout": 30,
+          "statusMessage": "Bridging AGENTS.md → CLAUDE.md…",
+          "async": false
+        }
+      ]
+    }
+  ]
+}

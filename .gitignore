@@ -1,0 +1,5 @@
+# Local Claude Code settings (machine-specific)
+.claude/
+
+# Scratch / test artifacts
+.scratch-test/
