@@ -34,7 +34,7 @@ Inside a Claude Code session (these are interactive slash commands, **not** term
 
 ```
 /plugin marketplace add PatrickRutledge/agents-md-bridge
-/plugin install agents-md-bridge@burnfiddlesticks
+/plugin install agents-md-bridge@aetherforge
 ```
 
 Requires Node.js (already present with any Claude Code install).

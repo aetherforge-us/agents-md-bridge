@@ -1,8 +1,8 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace-manifest.json",
-  "name": "burnfiddlesticks",
+  "name": "aetherforge",
   "owner": {
-    "name": "Patrick Rutledge",
+    "name": "Aether Forge",
     "email": "nameappliedfor@gmail.com"
   },
   "description": "Claude Code plugins that fill ecosystem gaps.",
