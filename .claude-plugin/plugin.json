@@ -6,7 +6,7 @@
   "description": "Makes Claude Code read AGENTS.md natively. On session start it links every AGENTS.md to a git-ignored CLAUDE.md (via @import, so there is zero content drift), including nested files. Cross-platform; never touches a CLAUDE.md you wrote yourself; collects no data.",
   "author": {
     "name": "Patrick Rutledge",
-    "email": "pat@burnfiddlesticks.com"
+    "email": "nameappliedfor@gmail.com"
   },
   "homepage": "https://patrickrutledge.github.io/agents-md-bridge/",
   "repository": "https://github.com/PatrickRutledge/agents-md-bridge",

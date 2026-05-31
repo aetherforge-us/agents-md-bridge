@@ -22,7 +22,7 @@ All processing happens locally on your machine. The author receives nothing.
 
 ## Contact
 
-Questions about this policy or the plugin: **pat@burnfiddlesticks.com**
+Questions about this policy or the plugin: **nameappliedfor@gmail.com**
 
 ## Changes
 
