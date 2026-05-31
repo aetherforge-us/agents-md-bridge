@@ -4,8 +4,8 @@ Make **Claude Code read `AGENTS.md`** — without committing a Claude-specific f
 
 [`AGENTS.md`](https://agents.md/) is the vendor-neutral standard for agent instructions, read natively by Codex, Cursor, Windsurf, and others. Claude Code reads only `CLAUDE.md` ([issue #6235](https://github.com/anthropics/claude-code/issues/6235), 4,000+ 👍, still open). The common workarounds either break on Windows (symlinks need Developer Mode) or force a `CLAUDE.md` into your repo. This plugin avoids both.
 
-- **Website:** <https://patrickrutledge.github.io/agents-md-bridge/>
-- **Privacy:** collects no data — <https://patrickrutledge.github.io/agents-md-bridge/privacy.html>
+- **Website:** <https://aetherforge-us.github.io/agents-md-bridge/>
+- **Privacy:** collects no data — <https://aetherforge-us.github.io/agents-md-bridge/privacy.html>
 
 ## How it works
 
@@ -33,7 +33,7 @@ The generated files are added to **`.git/info/exclude`** (a *local* ignore), so 
 Inside a Claude Code session (these are interactive slash commands, **not** terminal commands):
 
 ```
-/plugin marketplace add PatrickRutledge/agents-md-bridge
+/plugin marketplace add aetherforge-us/agents-md-bridge
 /plugin install agents-md-bridge@aetherforge
 ```
 

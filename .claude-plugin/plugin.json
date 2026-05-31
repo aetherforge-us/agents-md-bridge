@@ -8,8 +8,8 @@
     "name": "Patrick Rutledge",
     "email": "nameappliedfor@gmail.com"
   },
-  "homepage": "https://patrickrutledge.github.io/agents-md-bridge/",
-  "repository": "https://github.com/PatrickRutledge/agents-md-bridge",
+  "homepage": "https://aetherforge-us.github.io/agents-md-bridge/",
+  "repository": "https://github.com/aetherforge-us/agents-md-bridge",
   "license": "MIT",
   "keywords": ["agents.md", "claude.md", "memory", "interoperability", "context", "hooks"],
   "hooks": "./hooks/hooks.json"

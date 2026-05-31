@@ -27,4 +27,4 @@ Questions about this policy or the plugin: **nameappliedfor@gmail.com**
 ## Changes
 
 Any future change to this policy will be published at
-<https://patrickrutledge.github.io/agents-md-bridge/privacy.html> with an updated date above.
+<https://aetherforge-us.github.io/agents-md-bridge/privacy.html> with an updated date above.
