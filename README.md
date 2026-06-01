@@ -33,7 +33,7 @@ The generated files are added to **`.git/info/exclude`** (a *local* ignore), so 
 Inside a Claude Code session (these are interactive slash commands, **not** terminal commands):
 
 ```
-/plugin marketplace add aetherforge-us/agents-md-bridge
+/plugin marketplace add aetherforge-us/marketplace
 /plugin install agents-md-bridge@aetherforge
 ```
 
